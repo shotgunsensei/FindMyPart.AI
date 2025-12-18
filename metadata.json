@@ -1,0 +1,5 @@
+{
+  "name": "FindMyPart.AI",
+  "description": "A sophisticated vehicle diagnostic and part sourcing tool. Enter your VIN to decode vehicle specifications and find precise replacement parts using AI-powered web searching with real-time status updates and entertainment.",
+  "requestFramePermissions": []
+}
